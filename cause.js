@@ -1,23 +1,23 @@
  // Reasons database
  const reasons = [
     { 
-        text: "You’re such a kind and wonderful person, and I feel lucky to share such a good bond with you. 💖", 
-        emoji: "🌟",
+        text: "You’re always there for me—whether it’s through laughter, tears, or silence. That loyalty is a love language in itself. 💖", 
+        emoji: "💋",
         gif: "gif1.gif"
     },
     { 
-        text: "May your day be filled with love, laughter, and endless joy. 🌸 ", 
+        text: " I love you because u feel genuine joy when i succeed, as if my victories are your own.. 🌸 ", 
         emoji: "💗",
         gif: "gif2.gif"
     },
     { 
-        text: "Wishing you success, happiness, and everything your heart desires. ✨ ", 
+        text: " I love you because of all the memories we’ve created together—our inside jokes and adventures mean everything to me 💌 ", 
         emoji: "💕",
         gif: "gif1.gif"
     },
     { 
-        text: "Stay the amazing girl you are—always spreading positivity around. Have the happiest year ahead! 🥳 ", 
-        emoji: "🌟",
+        text: " I love you because you accept me exactly as I am, without judgment, and I never have to pretend around you 🔐. ", 
+        emoji: "🎀",
         gif: "gif2.gif"
     }
 ];
