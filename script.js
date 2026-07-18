@@ -88,12 +88,7 @@ window.addEventListener('load', () => {
                 opacity: 0,
                 duration: 1,
                 onComplete: () => {
-                    const passcode = prompt("💌 Enter our secret code");
-
-if (passcode === "20-7") {
-    window.location.href = "cause.html";
-} else {
-    alert("❌ Wrong passcode!");
+                    window.location.href = "password.html";
 } // Replace with the actual URL of the next page
                 }
             });
